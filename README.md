@@ -1,6 +1,7 @@
 # 💫 About Me:
-I like @msys2, to code C. Use @git-for-windows. Love @microsoft Windows 10. Learning PowerShell 7 to be Windows IT Admin. Editor of choice is @notepad-plus-plus
+I like linux and GNU software. FREE AS IN FREEDOM
 
+<a href="https://my.fsf.org/join"><img src="https://static.fsf.org/nosvn/appeal2020/fall/4-GPL.png" alt="The GNU General Public License is the foundation of free software"></a>
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCf0TCMRwnTjEVBz5njkRNhw) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:owengrumblesny@gmail.com) 
