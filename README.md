@@ -1,7 +1,5 @@
 # 💫 About Me:
-I like linux and GNU software. FREE AS IN FREEDOM
-
-<a href="http://www.fsf.org/associate/support_freedom/join_fsf?referrer=2442"><img src="//static.fsf.org/fsforg/img/normal-image.png" alt="Support freedom" title="Help protect your freedom, join the Free Software Foundation" /></a>
+I Like Operating systems, coffee, and low level programming! C is my favorite language!
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCf0TCMRwnTjEVBz5njkRNhw) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:owengrumblesny@gmail.com) 
