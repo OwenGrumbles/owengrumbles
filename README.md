@@ -12,9 +12,9 @@ ABOUT:
 /===============================================================================================================================================\  
 |Hi.                                                                                                                                            |
 | I Like coding.                                                                                                                                |
-| I really like Windows 10. It is the best OS ever.                                                                                             |
+| I really like Fedora linux. It is the best OS ever.                                                                                             |
 | Yes this is a raw code block.                                                                                                                 |
-| I Like tea, my guinea pig S'more, low-level programming, OS stuff, Windows API, and C# + Powershell, anything OS hacky.                       |
+| I Like tea, my guinea pig S'more, low-level programming, OS stuff, Windows API, and C# + Powershell, bash, scripting, anything OS hacky.                       |
 \===============================================================================================================================================/                                                                                                                                                
 ME ON THE INTERNET:
 /===============================================================================================================================================\
