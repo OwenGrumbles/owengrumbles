@@ -1,30 +1,3 @@
-```
- ________  ___       __   _______   ________           ________  ________  ___  ___  _____ ______   ________  ___       _______   ________      
-|\   __  \|\  \     |\  \|\  ___ \ |\   ___  \        |\   ____\|\   __  \|\  \|\  \|\   _ \  _   \|\   __  \|\  \     |\  ___ \ |\   ____\     
-\ \  \|\  \ \  \    \ \  \ \   __/|\ \  \\ \  \       \ \  \___|\ \  \|\  \ \  \\\  \ \  \\\__\ \  \ \  \|\ /\ \  \    \ \   __/|\ \  \___|_    
- \ \  \\\  \ \  \  __\ \  \ \  \_|/_\ \  \\ \  \       \ \  \  __\ \   _  _\ \  \\\  \ \  \\|__| \  \ \   __  \ \  \    \ \  \_|/_\ \_____  \   
-  \ \  \\\  \ \  \|\__\_\  \ \  \_|\ \ \  \\ \  \       \ \  \|\  \ \  \\  \\ \  \\\  \ \  \    \ \  \ \  \|\  \ \  \____\ \  \_|\ \|____|\  \  
-   \ \_______\ \____________\ \_______\ \__\\ \__\       \ \_______\ \__\\ _\\ \_______\ \__\    \ \__\ \_______\ \_______\ \_______\____\_\  \ 
-    \|_______|\|____________|\|_______|\|__| \|__|        \|_______|\|__|\|__|\|_______|\|__|     \|__|\|_______|\|_______|\|_______|\_________\
-                                                                                                                                    \|_________|
-
-ABOUT:
-/===============================================================================================================================================\  
-|Hi.                                                                                                                                            |
-| I Like coding.                                                                                                                                |
-| I really like Fedora linux. It is the best OS ever.                                                                                             |
-| Yes this is a raw code block.                                                                                                                 |
-| I Like tea, my guinea pig S'more, low-level programming, OS stuff, Windows API, and C# + Powershell, bash, scripting, anything OS hacky.                       |
-\===============================================================================================================================================/                                                                                                                                                
-ME ON THE INTERNET:
-/===============================================================================================================================================\
-| I have a blog that I am still trying to get setup. I mostly talk about programming and any computer stuff I find cool or interesting.          |
-| The domain is here v                                                                                                                           |
-| https://owengrumbles.com                                                                                                                       |
-| I have a lot more places I am on but those are on my site, go there if you want to seee those (or look left on my GH profile                   |
-\===============================================================================================================================================/
-
-THANKS FOR STOPPING BY!
-Happy Hacking/Coding! 💙
-                                        
-```
+# [ 🧊 Moving To Codeberg](https://codeberg.org/Owen_Grumbles)
+## Why?
+For more community oriented and linux-based opensource Code Contributing!
